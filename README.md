@@ -1,8 +1,8 @@
 
-
 <h2>📈 Descripción general:</h2>
 <br>
-En esta actividad se establecieron como ejemplo las variables de operación en el mes de diciembre de una tienda abarrotera. Con estos datos se llevó a cabo un proceso de simulación Monte Carlo, así mismo se definieron distintos tipos de distribuciones de probabilidad para las variables del modelo en un análisis de sensibilidad.
+<b>La simulación Monte Carlo es un método o técnica estadística utilizado ampliamente en el mundo de las inversiones. Permite modelar y analizar resultados potenciales simulando escenarios aleatorios posibles.</b><br>
+En esta actividad se simulan las operaciones de una tienda abarrotera, tomando como ejemplo las variables de operación durante el mes de diciembre. Con estos datos se llevó a cabo un proceso de simulación Monte Carlo, así mismo se definieron distintos tipos de distribuciones de probabilidad para las variables del modelo en un análisis de sensibilidad.
 <h2>⚙️Tecnologías: </h2>
 <br>
     • Python 3.10+<br>
